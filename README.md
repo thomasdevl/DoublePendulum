@@ -11,8 +11,10 @@ Reference for the math formulas:
 https://www.myphysicslab.com/pendulum/double-pendulum-en.html
 
 Variables :
-r1 and r2 correspond to L1 and L2
+
 ![Screenshot 2023-01-17 at 21 22 39](https://user-images.githubusercontent.com/91684310/213004736-94bf26c5-ed30-441b-86c9-eb1f9cd06978.png)
+
+*L1 and L2 are named r1 and r2 in the project file
 
 Formulas used :
 
