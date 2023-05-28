@@ -4,7 +4,8 @@ Double Pendulum Simulation using Processing4
 
 ## Demo:
 
-![DoublePendul](https://user-images.githubusercontent.com/91684310/213006647-16fdd5e8-5f6a-461a-b8c7-a32e1b03b02c.gif)
+https://github.com/thomasdevl/DoublePendulum/assets/91684310/962dff83-03db-43dd-8490-d9ebfeeb25bf
+
 
 ## Variables :
 
